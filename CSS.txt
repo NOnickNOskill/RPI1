@@ -1,0 +1,8 @@
+@font-face {
+	font-family: "Montserrat";
+	scr: url(fonts/Montserrat-SemiBold.ttf);
+}
+* {
+	font-size: 100%;
+	font-family: "Montserrat";
+}
